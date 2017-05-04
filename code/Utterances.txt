@@ -1,0 +1,12 @@
+﻿GetFactIntent give me a ron swanson quote
+GetFactIntent tell me a swanson quote
+GetFactIntent give me a quote
+GetFactIntent tell me a quote
+GetFactIntent tell me something
+
+GetNewFactIntent tell me a new quote
+GetNewFactIntent tell me another quote
+GetNewFactIntent tell me something new
+
+AMAZON.StopIntent we're done
+AMAZON.StopIntent that is enough
